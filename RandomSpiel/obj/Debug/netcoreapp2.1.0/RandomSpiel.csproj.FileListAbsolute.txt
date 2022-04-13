@@ -1,0 +1,13 @@
+D:\VisualStudio-projekts\RandomSpiel\RandomSpiel\bin\Debug\netcoreapp2.1.0\RandomSpiel.deps.json
+D:\VisualStudio-projekts\RandomSpiel\RandomSpiel\bin\Debug\netcoreapp2.1.0\RandomSpiel.runtimeconfig.json
+D:\VisualStudio-projekts\RandomSpiel\RandomSpiel\bin\Debug\netcoreapp2.1.0\RandomSpiel.runtimeconfig.dev.json
+D:\VisualStudio-projekts\RandomSpiel\RandomSpiel\bin\Debug\netcoreapp2.1.0\RandomSpiel.dll
+D:\VisualStudio-projekts\RandomSpiel\RandomSpiel\bin\Debug\netcoreapp2.1.0\RandomSpiel.pdb
+D:\VisualStudio-projekts\RandomSpiel\RandomSpiel\obj\Debug\netcoreapp2.1.0\RandomSpiel.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio-projekts\RandomSpiel\RandomSpiel\obj\Debug\netcoreapp2.1.0\RandomSpiel.AssemblyInfoInputs.cache
+D:\VisualStudio-projekts\RandomSpiel\RandomSpiel\obj\Debug\netcoreapp2.1.0\RandomSpiel.AssemblyInfo.cs
+D:\VisualStudio-projekts\RandomSpiel\RandomSpiel\obj\Debug\netcoreapp2.1.0\RandomSpiel.csproj.CoreCompileInputs.cache
+D:\VisualStudio-projekts\RandomSpiel\RandomSpiel\obj\Debug\netcoreapp2.1.0\RandomSpiel.dll
+D:\VisualStudio-projekts\RandomSpiel\RandomSpiel\obj\Debug\netcoreapp2.1.0\RandomSpiel.pdb
+D:\VisualStudio-projekts\RandomSpiel\RandomSpiel\obj\Debug\netcoreapp2.1.0\RandomSpiel.genruntimeconfig.cache
+D:\VisualStudio-projekts\RandomSpiel\RandomSpiel\obj\Debug\netcoreapp2.1.0\RandomSpiel.csproj.AssemblyReference.cache

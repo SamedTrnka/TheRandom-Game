@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "xRXvde3hC3O0hHROY5F7GdJS5IQURoIZLys0tR9u++6OiVfpm4dLr1UVTkN/Xzq8v4dzqgA2RW9xDt0wKUQVmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2004s\\Desktop\\USB-Backup\\VisualStudio-projekts\\RandomSpiel\\RandomSpiel\\RandomSpiel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2004s\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\2004s\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\2004s\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\2004s\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\2004s\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\2004s\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\2004s\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

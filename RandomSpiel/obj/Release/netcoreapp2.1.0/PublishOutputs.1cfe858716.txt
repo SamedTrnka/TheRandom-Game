@@ -1,0 +1,4 @@
+D:\Visualisierter Code\exe\RandomSpiel.dll
+D:\Visualisierter Code\exe\RandomSpiel.deps.json
+D:\Visualisierter Code\exe\RandomSpiel.runtimeconfig.json
+D:\Visualisierter Code\exe\RandomSpiel.pdb
